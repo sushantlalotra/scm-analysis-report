@@ -25,12 +25,12 @@ This project involves analyzing Supply Chain Management (SCM) data using Power B
 
 ## 🛠 Tools Used
 - **Power BI**: For creating interactive dashboards and reports.
-- **Excel/MySQL**: Data source for preprocessing and cleaning (if applicable).
+- **Excel/MySQL**: Data source for preprocessing and cleaning.
 - **DAX (Data Analysis Expressions)**: For calculated columns and measures.
 
 
 ## 💡 Insights Gained
-- Highlight 2-3 key insights derived from the project, e.g.:
+  
   - **Inventory Analysis**: Identified seasonal demand trends.
   - **Supplier Performance**: Ranked suppliers by on-time delivery rate.
   - **Logistics Optimization**: Reduced delivery delays by analyzing transport data.
